@@ -16,7 +16,7 @@ Clone the Repo
 
 
 Install Power BI Desktop
-Download here
+ 
 
 Open .pbix Files in Power BI Desktop to explore or modify the reports.
 
