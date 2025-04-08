@@ -14,10 +14,7 @@ Data Storytelling: Turning complex data into clear, actionable insights.
 Getting Started
 Clone the Repo
 
-bash
-Copy
-Edit
-git clone https://github.com/DebjyotiSaha/Power-BI-Projects-Phase-2.git
+
 Install Power BI Desktop
 Download here
 
